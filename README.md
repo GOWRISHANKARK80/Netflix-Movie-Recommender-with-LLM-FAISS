@@ -18,3 +18,4 @@ This is a smart movie recommendation system built using Local LLM-style logic an
 2. Install dependencies  
 ```bash
 pip install -r requirements.txt
+Streamlit Link --> http://localhost:8501
