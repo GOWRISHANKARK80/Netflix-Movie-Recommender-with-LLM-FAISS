@@ -1,5 +1,5 @@
 GitHub Link --> https://netflix-movie-recommendation01.streamlit.app/
-# Netflix Recommender using LLM + FAISS
+# GenAI-Powered Netflix Explorer
 
 This is a smart movie recommendation system built using Local LLM-style logic and vector search (FAISS). It uses the Netflix Titles dataset and lets users input queries like:
 
